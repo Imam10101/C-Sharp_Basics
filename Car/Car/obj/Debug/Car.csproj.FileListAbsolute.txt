@@ -1,0 +1,7 @@
+C:\Users\Hp\Desktop\C#\Car\Car\bin\Debug\Car.exe.config
+C:\Users\Hp\Desktop\C#\Car\Car\bin\Debug\Car.exe
+C:\Users\Hp\Desktop\C#\Car\Car\bin\Debug\Car.pdb
+C:\Users\Hp\Desktop\C#\Car\Car\obj\Debug\Car.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\C#\Car\Car\obj\Debug\Car.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\Car\Car\obj\Debug\Car.exe
+C:\Users\Hp\Desktop\C#\Car\Car\obj\Debug\Car.pdb

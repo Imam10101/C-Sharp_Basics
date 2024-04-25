@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\C#\EvidenceHW3\EvidenceHW3\bin\Debug\EvidenceHW3.exe.config
+C:\Users\Hp\Desktop\C#\EvidenceHW3\EvidenceHW3\bin\Debug\EvidenceHW3.exe
+C:\Users\Hp\Desktop\C#\EvidenceHW3\EvidenceHW3\bin\Debug\EvidenceHW3.pdb
+C:\Users\Hp\Desktop\C#\EvidenceHW3\EvidenceHW3\obj\Debug\EvidenceHW3.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\C#\EvidenceHW3\EvidenceHW3\obj\Debug\EvidenceHW3.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\EvidenceHW3\EvidenceHW3\obj\Debug\EvidenceHW3.exe
+C:\Users\Hp\Desktop\C#\EvidenceHW3\EvidenceHW3\obj\Debug\EvidenceHW3.pdb
+C:\Users\Hp\Desktop\C#\Ev 1 - 3 _1280706\EvidenceHW3\EvidenceHW3\bin\Debug\EvidenceHW3.exe.config
+C:\Users\Hp\Desktop\C#\Ev 1 - 3 _1280706\EvidenceHW3\EvidenceHW3\bin\Debug\EvidenceHW3.exe
+C:\Users\Hp\Desktop\C#\Ev 1 - 3 _1280706\EvidenceHW3\EvidenceHW3\bin\Debug\EvidenceHW3.pdb
+C:\Users\Hp\Desktop\C#\Ev 1 - 3 _1280706\EvidenceHW3\EvidenceHW3\obj\Debug\EvidenceHW3.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\C#\Ev 1 - 3 _1280706\EvidenceHW3\EvidenceHW3\obj\Debug\EvidenceHW3.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\Ev 1 - 3 _1280706\EvidenceHW3\EvidenceHW3\obj\Debug\EvidenceHW3.exe
+C:\Users\Hp\Desktop\C#\Ev 1 - 3 _1280706\EvidenceHW3\EvidenceHW3\obj\Debug\EvidenceHW3.pdb

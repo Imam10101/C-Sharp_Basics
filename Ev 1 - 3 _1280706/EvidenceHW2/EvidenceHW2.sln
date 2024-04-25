@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvidenceHW2", "EvidenceHW2\EvidenceHW2.csproj", "{64AE1071-E141-4AFF-A0CA-1D5E28ADC350}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64AE1071-E141-4AFF-A0CA-1D5E28ADC350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64AE1071-E141-4AFF-A0CA-1D5E28ADC350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64AE1071-E141-4AFF-A0CA-1D5E28ADC350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64AE1071-E141-4AFF-A0CA-1D5E28ADC350}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5802C0ED-DEB6-4F80-BFFA-D1663453CC5B}
+	EndGlobalSection
+EndGlobal
